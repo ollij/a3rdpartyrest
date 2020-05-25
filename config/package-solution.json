@@ -1,0 +1,14 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "a-3rd-party-rest-client-side-solution",
+    "id": "4325b5f9-c4c5-4d1f-8040-bcead792aed0",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false
+  },
+  "paths": {
+    "zippedPackage": "solution/a-3rd-party-rest.sppkg"
+  }
+}
